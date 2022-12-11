@@ -1,3 +1,5 @@
+![Medico-A-Healthcare-App](https://user-images.githubusercontent.com/46085301/206902382-09d08947-8f62-406d-b0b3-3ff697fdb4b5.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
